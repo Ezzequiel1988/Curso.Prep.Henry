@@ -8,10 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/nicol/Henry/Curso.Prep.Henry/01-Git/homework/README.md",
+			"file": "/C/Users/nicol/Henry/Curso.Prep.Henry/04-JS-III/homework/homework.js",
 			"settings":
 			{
-				"buffer_size": 7388,
+				"buffer_size": 6212,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/nicol/Henry/Curso.Prep.Henry/README.md",
+			"settings":
+			{
+				"buffer_size": 1933,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -49,6 +58,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/nicol/Henry/Curso.Prep.Henry/01-Git/Git y GitHub.md",
+		"/C/Users/nicol/Henry/Curso.Prep.Henry/01-Git/homework/README.md",
 		"/C/Users/nicol/Henry/Curso.Prep.Henry/01-Git/README.md"
 	],
 	"find":
@@ -90,12 +101,12 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/nicol/Henry/Curso.Prep.Henry/01-Git/homework/README.md",
+					"file": "/C/Users/nicol/Henry/Curso.Prep.Henry/04-JS-III/homework/homework.js",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7388,
+						"buffer_size": 6212,
 						"regions":
 						{
 						},
@@ -108,15 +119,44 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2441.0,
+						"translation.y": 2216.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/nicol/Henry/Curso.Prep.Henry/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -197,7 +237,7 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
